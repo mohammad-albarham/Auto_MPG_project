@@ -26,7 +26,7 @@ The plot of the HorsePower feature with MPG.
        
 ### Performance Results
 
-|Mean absolute error [MPG] |Mean absolute error [MPG]|
+|Model                     |Mean absolute error [MPG]|
 |:-------------------------|------------------------:|
 |Single_feature_Regression |	3.644525          |
 |linear_model_MultipInputs |	3.364622          |
